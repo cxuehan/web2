@@ -8,6 +8,7 @@ var lr = document.getElementById("lr");
 var user = document.getElementById("user");
 var off = document.getElementById("offline");
 register.onclick = function(){
+	document.getElementById("lfaile").style.display = "none";
 	var i = 0;
 	for (; i < ids.length&&ids[i] != id.value; ) {
 		i++;
