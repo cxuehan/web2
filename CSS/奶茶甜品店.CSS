@@ -71,7 +71,7 @@ li{
 	float: left; 
 	width: 10%;
 	height: 100%;
-	border: 1px rgba(100, 50, 50, 1.0);
+	border: 0;
 	background: rgba(100, 50, 50, 1) url(../img/search.png) no-repeat center center;
 }
 .b{
