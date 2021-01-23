@@ -56,9 +56,9 @@ li{
 	display: inline-block;
 	width: 20%;
 	height: 20%;
-    position: absolute;
-    bottom: 30%;
-    left: 75%;
+	position: absolute;
+	bottom: 30%;
+	left: 75%;
 }
 .search{
 	float: left;
@@ -102,9 +102,10 @@ li{
 	display: inline-block;
 	width: 100%;
 	height: 38px;
-    position: absolute;
-    left: 0;
-    top: 80px;
+	position: absolute;
+	left: 0;
+	top: 80px;
+	font-size: 10px;
 }
 #tip1{
 	display: none;
@@ -123,6 +124,7 @@ li{
 	position: absolute;
 	left: 0;
 	top: 180px;
+	font-size: 10px;
 }
 #tip2{
 	display: none;
@@ -150,7 +152,7 @@ li{
 	position: absolute;
 	left: 10%;
 	top: 65%;
-    padding: 5px;
+	padding: 5px;
 	color: white;
 	font-size: 150%;
 }
@@ -161,7 +163,7 @@ li{
 	position: absolute;
 	right: 65%;
 	top: 65%;
-    padding: 5px;
+	padding: 5px;
 	color: white;
 	font-size: 150%;
 }
@@ -181,7 +183,7 @@ li{
 	position: absolute;
 	left: 65%;
 	top: 65%;
-    padding: 5px;
+	padding: 5px;
 	color: white;
 	font-size: 150%;
 }
@@ -192,7 +194,7 @@ li{
 	position: absolute;
 	right: 10%;
 	top: 65%;
-    padding: 5px;
+	padding: 5px;
 	color: white;
 	font-size: 150%;
 }
@@ -289,11 +291,11 @@ li{
 }
 .b3{
 	width:8%;
-    height:450px;
-    background:rgba(0,0,0,0.3);
-    position: absolute;
-    left: 2%;
-    top: 0px;
+	height: 450px;
+	background: rgba(0, 0, 0, 0.3);
+	position: absolute;
+	left: 2%;
+	top: 0;
 }
 .b4{
 	width: 85%;
@@ -303,16 +305,16 @@ li{
 	top: 10px;
 }
 .b5{
-    color: rgba(20,80,60,1);
-    font-size:130%;
-    font-weight:400;
-    line-height:44px;
+	color: rgba(20, 80, 60, 1.0);
+	font-size: 130%;
+	font-weight: 400;
+	line-height: 44px;
 }
 .b6{
-	font-size:130%;
-    font-weight:400;
-    color:rgba(255,255,255,1);
-    line-height:44px;
+	color: rgba(20, 80, 60, 1.0);
+	font-size: 130%;
+	font-weight: 400;
+	line-height: 44px;
 }
 .c{
 	display: inline-block;
@@ -327,16 +329,16 @@ li{
 	width: 45%;
 	height: 100px;
 	position: absolute;
-    left: 0;
-    top: 0;
+	left: 0;
+	top: 0;
 }
 .line2{
 	display: inline-block;
 	width: 45%;
 	height: 100px;
 	position: absolute;
-    right: 0;
-    top: 0;
+	right: 0;
+	top: 0;
 }
 .find{
 	display: inline-block;
@@ -371,8 +373,8 @@ li{
 }
 .num1{
 	position: absolute;
-    left: 0;
-    top: 0;
+	left: 0;
+	top: 0;
 }
 .num2{
 	position: absolute;
